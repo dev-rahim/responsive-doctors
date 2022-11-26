@@ -1,0 +1,8 @@
+.cart {
+    transition: 0.5s;
+    border-radius: 2px;
+}
+
+.cart:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

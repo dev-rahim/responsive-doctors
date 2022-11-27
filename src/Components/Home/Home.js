@@ -1,4 +1,5 @@
 import React from 'react';
+import About from '../About/About';
 import Banner from '../Banner/Banner';
 import Instructions from '../Instructions/Instructions';
 import MenuBar from '../Shared/MebuBar/MenuBar';
@@ -10,6 +11,7 @@ const Home = () => {
             <MenuBar />
             <Banner />
             <Instructions />
+            <About />
         </div>
     );
 };

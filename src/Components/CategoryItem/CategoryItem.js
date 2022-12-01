@@ -7,7 +7,7 @@ const CategoryItem = (props) => {
             <div className="item-image">
                 <img className='w-100' src={image} alt="" />
                 <h5>{name}</h5>
-                <p>{price}</p>
+                <p className='text-info'>{price}</p>
             </div>
         </div>
     );

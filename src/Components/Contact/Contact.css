@@ -1,0 +1,16 @@
+.input-field {
+    border: none;
+    padding: 10px;
+    width: 50%;
+    outline: none;
+    border-bottom: 1px solid gray;
+}
+
+.input-submit {
+    background-color: rgb(255, 61, 122);
+    color: white;
+    outline: none;
+    border: 0px;
+    padding: 10px 23px;
+    border-radius: 5px;
+}
